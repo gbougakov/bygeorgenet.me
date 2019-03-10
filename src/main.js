@@ -1,6 +1,10 @@
 import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
+import 'uikit/dist/css/uikit.css'
+
+import UIkit from 'uikit'
+import UIkitIcons from 'uikit/dist/js/uikit-icons'
 
 Vue.config.productionTip = false
 
