@@ -5,6 +5,7 @@ import 'uikit/dist/css/uikit.css'
 
 import UIkit from 'uikit'
 import UIkitIcons from 'uikit/dist/js/uikit-icons'
+UIkitIcons(UIkit)
 
 Vue.config.productionTip = false
 
