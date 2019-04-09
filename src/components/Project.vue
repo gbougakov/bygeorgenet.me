@@ -21,7 +21,7 @@
   }
 
   .card {
-    background: #ebebeb !important;
+    background: #fafafa !important;
   }
 </style>
 

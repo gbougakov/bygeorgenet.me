@@ -6,6 +6,7 @@ import Contact from './views/Contact.vue'
 import ProjectView from './views/ProjectView.vue'
 import NotFound from './views/404.vue'
 import Donate from './views/Donate.vue'
+import Portfolio from './views/Portfolio.vue'
 
 Vue.use(Router)
 
@@ -37,6 +38,11 @@ export default new Router({
       path: '/donate',
       name: 'donate',
       component: Donate
+    },
+    {
+      path: '/portfolio',
+      name: 'portfolio',
+      component: Portfolio
     },
     {
       // will match everything

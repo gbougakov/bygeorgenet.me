@@ -13,6 +13,11 @@
               </router-link>
             </div>
             <div class="uk-margin-small-top">
+              <router-link to="/portfolio" tag="div">
+                <a class="rlink">Portfolio</a>
+              </router-link>
+            </div>
+            <div class="uk-margin-small-top">
               <router-link to="/projects" tag="div">
                 <a class="rlink">Projects</a>
               </router-link>
@@ -69,7 +74,7 @@
     opacity: 0
   }
   body {
-    background: #f9fafb;
+    /* background: #f9fafb; */
   }
 </style>
 
