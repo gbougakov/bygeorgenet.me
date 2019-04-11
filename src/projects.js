@@ -56,6 +56,16 @@ export default {
       href: 'https://bygeorgenet.me/ip'
     }]
   }, {
+    id: 'docket',
+    icon: '/img/icons8-grocery-bag-100.png',
+    title: 'Docket',
+    subtitle: 'Stop staring mindlessly into the fridge. Create grocery lists easily',
+    type: 'website',
+    links: [{
+      title: 'Check it out',
+      href: 'https://oss.bygeorgenet.me/docket'
+    }]
+  }, {
     id: 'storybadger',
     icon: '/img/icons8-musical-notes-100.png',
     title: 'Storybadge',
