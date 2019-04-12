@@ -57,7 +57,7 @@ export default {
     }]
   }, {
     id: 'docket',
-    icon: '/img/icons8-grocery-bag-100.png',
+    icon: '/img/docket.png',
     title: 'Docket',
     subtitle: 'Stop staring mindlessly into the fridge. Create grocery lists easily',
     type: 'website',
