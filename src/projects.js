@@ -64,6 +64,9 @@ export default {
     links: [{
       title: 'Check it out',
       href: 'https://oss.bygeorgenet.me/docket'
+    }, {
+      title: 'Upvote on Product Hunt',
+      href: 'https://www.producthunt.com/posts/docket-3'
     }]
   }, {
     id: 'storybadger',
