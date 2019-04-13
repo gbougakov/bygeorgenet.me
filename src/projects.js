@@ -61,6 +61,7 @@ export default {
     title: 'Docket',
     subtitle: 'Stop staring mindlessly into the fridge. Create grocery lists easily',
     type: 'website',
+    badge: '<a href="https://www.producthunt.com/posts/docket-3?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-docket-3" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=151225&theme=light&period=daily" alt="Docket - Tinder for grocery lists | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>',
     links: [{
       title: 'Check it out',
       href: 'https://oss.bygeorgenet.me/docket'
@@ -91,9 +92,10 @@ export default {
   }, {
     id: 'que',
     icon: '/img/que-128.png',
-    subtitle: 'Never fight over an AUX cord again. Awarded Product Hunt app of the day.',
+    subtitle: 'Never fight over an AUX cord again',
     title: 'Que',
     type: 'website',
+    badge: '<a href="https://www.producthunt.com/posts/que?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-que" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=133111&theme=light&period=daily" alt="Que - Stop fighting over the AUX cord | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>',
     links: [{
       title: 'Check it out',
       href: 'https://que.bygeorgenet.me/'

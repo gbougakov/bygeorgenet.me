@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="uk-text-center">
 
     <div class="uk-flex uk-flex-center uk-margin">
       <img v-bind:src="project.icon" v-bind:class="{ 'imsg-icon': (project.type === 'stickerpack') }"
@@ -7,8 +7,11 @@
     </div>
     <h1 class="uk-text-center uk-text-bold uk-margin-remove">{{project.title}}</h1>
     <p class="uk-text-center uk-margin-remove">{{project.subtitle}}</p>
+    <div v-if="project.badge" v-html="project.badge" class="uk-margin">
+
+    </div>
     <ul class="uk-list uk-text-center uk-margin-small">
-      <li v-for="link in project.links">
+      <li v-for="link in project.links" v-bind:key="link">
         <a v-bind:href="link.href">{{ link.title }}</a>
       </li>
     </ul>
