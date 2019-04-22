@@ -45,7 +45,7 @@ export default new Router({
       component: Portfolio
     },
     {
-      // will match everything
+      // 404, Matches everything that is not specified above
       path: '*',
       component: NotFound
     }
