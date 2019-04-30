@@ -2,7 +2,7 @@
   <div>
     <h1 class="uk-text-bold uk-text-center uk-margin-small">Hit me up on <a
       href="https://twitter.com/gbougakov">Twitter</a>, <a
-      href="https://t.me/gbougakov">Telegram</a> or just <a href="mailto:george@bygeorgenet.me">email me</a>.
+      href="https://t.me/gbougakov">Telegram</a>, <a href="https://wa.me/79269000805">WhatsApp</a> or just <a href="mailto:george@bygeorgenet.me">email me</a>.
     </h1>
     <h3 class="uk-text-center uk-margin-small">You can also stalk me on <a href="https://instagram.com/gbougakov">Instagram</a>
       (don't
