@@ -8,7 +8,7 @@
       (don't
       DM me), read my articles on my <a href="https://blog.bygeorgenet.me/">blog</a> or <a
         href="https://medium.com/georgenet">Medium</a>, get public domain photos taken by me on <a
-        href="https://unsplash.com/@gbougakov">Unsplash</a> or find my keys on <a href="https://keybase.io/georgebgk">Keybase</a>
+        href="https://unsplash.com/@gbougakov">Unsplash</a> or find my keys on <a href="https://keybase.io/gbougakov">Keybase</a>
     </h3>
   </div>
 </template>
