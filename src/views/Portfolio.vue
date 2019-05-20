@@ -2,6 +2,9 @@
   <div>
     <h1 class="uk-text-bold">2019</h1>
     <portfolio-element image="img/producthunt.png" title="Product Hunt"
+      subtitle="Storybadge featured on the home page of Product Hunt" date="May 20th, 2019" url="https://www.producthunt.com/posts/storybadge">
+    </portfolio-element>
+    <portfolio-element image="img/producthunt.png" title="Product Hunt"
       subtitle="Docket featured as Product of the Day (#2)" date="April 13th, 2019" url="https://www.producthunt.com/posts/docket-3">
     </portfolio-element>
     <portfolio-element image="img/skyeng.png" title="Skyeng - largest Russian edtech startup"
