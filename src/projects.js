@@ -77,7 +77,7 @@ export default {
     type: 'website',
     links: [{
       title: 'Add to Shortcuts',
-      href: 'shortcuts://import-shortcut?url=https%3A%2F%2Fstorybadge.bygeorgenet.me%2Fbadges%2Fsiri.shortcut&name=Share%20song%20to%20Instagram'
+      href: 'https://www.icloud.com/shortcuts/c2ccc9eec9fc400ea5795a4254489cc7'
     }]
   }, {
     id: 'mdbin',
