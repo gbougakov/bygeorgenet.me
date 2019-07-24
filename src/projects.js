@@ -69,7 +69,7 @@ export default {
       title: 'Upvote on Product Hunt',
       href: 'https://www.producthunt.com/posts/docket-3'
     }]
-  }, {
+  }/*, {
     id: 'storybadger',
     icon: '/img/icons8-musical-notes-100.png',
     title: 'Storybadge',
@@ -89,7 +89,7 @@ export default {
       title: 'Check it out',
       href: 'https://md.bygeorgenet.me/'
     }]
-  }, {
+  }*/, {
     id: 'que',
     icon: '/img/que-128.png',
     subtitle: 'Never fight over an AUX cord again',
