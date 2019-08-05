@@ -100,7 +100,7 @@ export default {
       title: 'Check it out',
       href: 'https://que.bygeorgenet.me/'
     }]
-  }, {
+  }/*, {
     id: 'schedule',
     icon: '/img/icons8-curriculum-100.png',
     subtitle: 'School 57\'s Timetable app. Supports Apple Watch',
@@ -110,5 +110,5 @@ export default {
       title: 'Get it on App Store',
       href: 'https://itunes.apple.com/us/app/school-schedule-by-georgenet/id1425892609?ls=1&mt=8'
     }]
-  }]
+  }*/]
 }

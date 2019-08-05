@@ -3,7 +3,7 @@
     <div class="uk-margin">
       <select class="uk-select uk-border-pill" v-model="showProjects">
         <option selected value="website">Web apps</option>
-        <option value="app">Apps</option>
+        <!--option value="app">Apps</option-->
         <option value="stickerpack">Sticker Packs</option>
       </select>
     </div>
