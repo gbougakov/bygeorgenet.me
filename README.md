@@ -1,3 +1,5 @@
+upd: this is an old version of my personal website. I rebuilt it in August 2019 and it's sources are available now at [gbougakov/gbougakov.dev](https://github.com/gbougakov.dev)
+
 # [bygeorgenet.me](https://bygeorgenet.me)
 
 ## Project setup
